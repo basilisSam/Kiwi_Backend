@@ -2,7 +2,7 @@
 
 This is a project done for Kiwi interview. Please find the instructions [here](https://github.com/basilisSam/Kiwi/wiki/Kiwi-Assignment).
 
-You can find the kanban board of this project [here](https://github.com/basilisSam/Kiwi/projects/1).
+You can find the kanban board of this project [here](https://github.com/basilisSam/Kiwi_Backend/projects/2).
 
 ## Teck Stack
 
