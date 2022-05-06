@@ -7,9 +7,8 @@ import { WordsService } from './words.service';
 export class WordsResolver {
   constructor(private readonly wordsService: WordsService) {}
 
-  @Query(() => Words, { name: 'words'})
+  @Query(() => Words)
   getWords(@Args() getWordsArgs: GetWordsArgs): Words {
     return this.wordsService.getWords(getWordsArgs);
   }
-  
 }
