@@ -1,4 +1,4 @@
-# Kiwi Backend 
+# Kiwi Backend [![Known Vulnerabilities](https://snyk.io/test/github/basilisSam/Kiwi_Backend/badge.svg)](https://snyk.io/test/github/basilisSam/Kiwi_Backend) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8f53b67475a84853b1cdf1fcea71d0eb)](https://www.codacy.com/gh/basilisSam/Kiwi_Backend/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=basilisSam/Kiwi_Backend&amp;utm_campaign=Badge_Grade)
 
 This is a project done for Kiwi interview. Please find the instructions [here](https://github.com/basilisSam/Kiwi/wiki/Kiwi-Assignment).
 
