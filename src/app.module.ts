@@ -5,7 +5,8 @@ import { UsersModule } from './words/words.module';
 @Module({
   imports: [
     GraphQLModule.forRoot({
-      autoSchemaFile: true
+      autoSchemaFile: true,
+      introspection: true,
     }),
     UsersModule,
   ],
