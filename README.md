@@ -6,9 +6,9 @@ You can find the kanban board of this project [here](https://github.com/basilisS
 
 ## Teck Stack
 
-The project is build with [Nestjs](https://nestjs.com/). It uses [jest](https://jestjs.io/) and [testing-library](https://testing-library.com/) for testing. It also uses [ORBIT](https://orbit.kiwi/) for styling, [GraphQL](https://graphql.org/) and [Apollo](https://www.apollographql.com/).
+The project is build with [Nestjs](https://nestjs.com/). It uses [jest](https://jestjs.io/) and [testing-library](https://testing-library.com/) for testing. It also uses [GraphQL](https://graphql.org/) and [Apollo](https://www.apollographql.com/).
 
-The project is deployed using [Heroku](https://dashboard.heroku.com/). The project has been deployed here: kiwi-backend.herokuapp.com/graphql
+The project is deployed using [Heroku](https://dashboard.heroku.com/). The project has been deployed here: [kiwi-backend.herokuapp.com/graphql](kiwi-backend.herokuapp.com/graphql)
 
 The project is also using [Snyk](https://snyk.io/) for security vulnerabilities, and [Codacy](https://www.codacy.com/) for code static analysis.
 
