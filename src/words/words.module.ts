@@ -5,4 +5,4 @@ import { WordsService } from './words.service';
 @Module({
   providers: [WordsResolver, WordsService],
 })
-export class UsersModule {}
+export class WordsModule {}

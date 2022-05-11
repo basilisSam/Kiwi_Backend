@@ -1,6 +1,6 @@
 import { Module } from '@nestjs/common';
 import { GraphQLModule } from '@nestjs/graphql';
-import { UsersModule } from './words/words.module';
+import { WordsModule } from './words/words.module';
 
 @Module({
   imports: [
@@ -8,7 +8,7 @@ import { UsersModule } from './words/words.module';
       autoSchemaFile: true,
       introspection: true,
     }),
-    UsersModule,
+    WordsModule,
   ],
   controllers: [],
   providers: [],
