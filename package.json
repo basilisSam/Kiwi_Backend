@@ -26,14 +26,14 @@
   "dependencies": {
     "@nestjs/common": "^7.0.0",
     "@nestjs/core": "^7.0.0",
-    "@nestjs/graphql": "^7.9.1",
+    "@nestjs/graphql": "^8.0.0",
     "@nestjs/platform-express": "^7.0.0",
-    "apollo-server-express": "^2.19.0",
+    "apollo-server-express": "^3.13.0",
     "class-validator": "^0.13.2",
     "graphql": "^15.4.0",
     "graphql-tools": "^8.1.0",
     "reflect-metadata": "^0.1.13",
-    "rimraf": "^3.0.2",
+    "rimraf": "^4.3.1",
     "rxjs": "^6.5.4",
     "uuid": "^8.3.1"
   },
